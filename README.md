@@ -7,7 +7,7 @@ A full-stack web application with Django backend and React frontend.
 ```
 wortbox/
 ├── frontend/          # React frontend
-└── wortbox_backend/   # Django backend
+└── backend/          # Django backend
 ```
 
 ## Backend Setup
